@@ -1,5 +1,5 @@
 ### Hi there 👋, CodeFlareLisa
-#### Full-Stack Java Developer
+#### Full-Stack AWS Cloud Practitioner, Java and Android App Developer
 
 My name is Lisa Lenhart. This README.md file in underconstruction...
 
